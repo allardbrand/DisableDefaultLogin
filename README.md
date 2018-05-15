@@ -4,7 +4,7 @@ Mendix module to disable the default login functionality within Mendix. If enabl
 # Typical usage scenario
 Forcing users to use a certain authentication method, such as OAuth or SAML
 
-## How to use:  
+# How to use 
 1) Download the module from the Mendix App Store
 2) Add the ASt_DisableDefaultLogin microflow to your after startup microflow
 3) Review the constants in the configuration folder inside the module
