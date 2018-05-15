@@ -1,5 +1,5 @@
 # Disable Default Login
-Mendix module to disable the default login functionality. If enabled, for each valid login attempt a custom microflow will be executed to determine whether the user is allowed to login. The default implementation prevents all users other than MxAdmin to login, but since this logic is done inside a microflow, this can be changed to reflect the requirements of your project.
+Mendix module to disable the default login functionality in Mendix. If enabled, for each valid login attempt a custom microflow will be executed to determine whether the user is allowed to login. The default implementation prevents all users other than MxAdmin to login, but since this logic is done inside a microflow, this can be changed to reflect the requirements of your project.
 
 ## How to use:  
   
